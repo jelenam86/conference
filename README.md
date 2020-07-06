@@ -1,6 +1,6 @@
 # COnference REgistration (CORE)
 
-CORE is a team project about the conference management system, written in Java with elements of HTLM and CSS to complete JavaFX application.
+CORE is a team project about the conference management system, written in Java with elements of CSS to complete JavaFX application.
 
 
 List of some of my responsibilities within this project:
