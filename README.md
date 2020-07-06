@@ -13,6 +13,6 @@ List of some of my responsibilities within this project:
 </ul></ul>
 
 
-The main part of database design is given on the image below.
+The foremost part of the database design is in the image below.
 
 ![database](https://i.imgur.com/cgYLUDV.png)
